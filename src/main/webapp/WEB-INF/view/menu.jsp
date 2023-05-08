@@ -19,6 +19,7 @@
             	<li><a href="buscajogos">Buscar Jogos</a></li>
             	<li><a href="grupojogos">Resultado dos Grupos</a></li>
             	<li><a href="campeonato">Campeonato</a></li>
+            	<li><a href="quartas">Quartas de Final</a></li>
 			</ul>
 		</nav>
 	</header>
