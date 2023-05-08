@@ -14,6 +14,7 @@
           <jsp:include page="menu.jsp"/>
      </div>
      <div align="center">
+     	  <h1>Pesquise os jogos pela data</h1>
           <form action="buscajogos" method="post">
                <table class="z">
                  <tr>

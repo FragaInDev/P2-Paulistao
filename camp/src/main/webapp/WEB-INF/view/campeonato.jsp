@@ -14,6 +14,7 @@
           <jsp:include page="menu.jsp"/>
      </div>
     <div align="center">
+    	  <h1>Tabela do Campeonato</h1>
           <form action="campeonato" method="get"></form>
     </div>
     <br>

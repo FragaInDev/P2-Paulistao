@@ -15,7 +15,7 @@
 	</div>
 
 	
-	<div class = "t-jogos">
+	<div class = "t-jogos" align="center">
 		<h1>Confira os Jogos do Paulistão</h1>
 	</div>
 	

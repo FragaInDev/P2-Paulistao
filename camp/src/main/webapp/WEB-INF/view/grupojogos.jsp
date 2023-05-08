@@ -14,6 +14,7 @@
           <jsp:include page="menu.jsp"/>
      </div>
     <div align="center">
+    	  <h1>Confira a Pontuação dos Grupos</h1>
           <form action="grupojogos" method="post">
                <table>
                  <tr>

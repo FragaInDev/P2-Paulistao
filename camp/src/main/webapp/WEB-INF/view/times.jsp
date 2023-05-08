@@ -18,13 +18,13 @@
 		 	<table class="z"></table>
 		 </form>
 	</div>
-    <section>
+    <div align="center">
     	<H1>Lista de Times</H1>
 		<br/>
 	
 		<div align="center">
 	        <c:if test="${not empty times }">
-	            <table border="1">
+	            <table class="table">
 	                <thead>
 	                    <tr>
 	                        <th>ID</th>
@@ -48,6 +48,6 @@
 	            </table>
 	        </c:if>
 		</div>
-	</section>
+	</div>
 </body>
 </html>

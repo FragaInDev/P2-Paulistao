@@ -13,8 +13,9 @@
   	<div>
         <jsp:include page="menu.jsp"/>
     </div>
-    <div>
+    <div align = "center">
     	<H1>Bem vindo ao Paulistão 2023</H1>
+    	<img src="./resources/ney.jpeg"/>
 	</div>
 </body>
 </html>
